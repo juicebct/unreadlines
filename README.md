@@ -25,13 +25,13 @@ The project was created as a 12th grade final work for the subject "Project Work
 
 ## 🖼️ Screenshots
 
-<img width="1512" height="800" alt="Screenshot 2026-11-09 at 01 45 23" src="https://github.com/user-attachments/assets/6483bcdc-396f-4900-9fb6-c76c8f3040bc" />
+<img width="1496" height="778" alt="Screenshot 2026-11-09 at 21 06 00" src="https://github.com/user-attachments/assets/cec08ced-c029-4e8a-9387-28cf480b353c" />
 
-<img width="1512" height="795" alt="Screenshot 2026-11-09 at 01 42 56" src="https://github.com/user-attachments/assets/2bd9a0fe-d401-4b42-b895-ff73d6592c78" />
+<img width="1502" height="776" alt="Screenshot 2026-11-09 at 21 07 11" src="https://github.com/user-attachments/assets/0d225fcc-e1e1-443d-90be-e052e42b5e83" />
 
-<img width="1512" height="799" alt="Screenshot 2026-11-09 at 01 41 19" src="https://github.com/user-attachments/assets/1e9b43e1-886f-4bec-b3c9-28ad13057c12" />
+<img width="1499" height="776" alt="Screenshot 2026-11-09 at 21 05 48" src="https://github.com/user-attachments/assets/e86e6fe5-e0fe-48d2-bd28-26c034c61ef5" />
 
-<img width="1512" height="799" alt="Screenshot 2026-11-09 at 01 42 23" src="https://github.com/user-attachments/assets/b2fbb642-ab16-4199-9f13-4548cfe691dd" />
+<img width="1498" height="774" alt="Screenshot 2026-11-09 at 21 07 34" src="https://github.com/user-attachments/assets/f1eb842c-d713-4705-b5fd-17b7dc789d44" />
 
 ## 📖 Project history
 
@@ -63,7 +63,7 @@ The project was created as a 12th grade final work for the subject "Project Work
 ## 📁 Project structure
 
 ```
-unread-lines/
+unreadlines/
 ├── index.html        # Main page
 ├── game.html         # Messenger (the game itself)
 ├── map.html          # City map
@@ -84,8 +84,8 @@ The project is a static website, so no build step is needed. Because the game lo
 
 ```bash
 # clone the repository
-git clone https://github.com/juicebct/unread-lines.git
-cd unread-lines
+git clone https://github.com/juicebct/unreadlines.git
+cd unreadlines
 
 # start any local server, for example:
 python3 -m http.server 8000
