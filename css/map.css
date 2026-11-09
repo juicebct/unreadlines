@@ -1,0 +1,14 @@
+/* map.html */
+
+#map {
+    flex: 1;
+    height: 100vh;
+}
+
+.leaflet-marker-icon {
+    filter: hue-rotate(-52deg);
+}
+
+.leaflet-container a {
+    color: #178a60;
+}

@@ -1,0 +1,391 @@
+/* index.html */
+
+html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    line-height: normal;
+    background: #111;
+}
+
+/* VIDEO BACKGROUND */
+
+.video-bg {
+    position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
+
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: -1;
+}
+
+/* menu */
+
+nav {
+    position: relative;
+    z-index: 20;
+    width: 100%;
+    height: 115px;
+    padding: 20px 4%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img {
+    height: 75px;
+    width: auto;
+    display: block;
+}
+
+.links {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+nav a {
+    position: relative;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: color 0.25s ease;
+}
+
+nav a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -7px;
+    width: 0;
+    height: 2px;
+    background: #20a874;
+    transition: width 0.25s ease;
+}
+
+nav a:hover {
+    color: #5fd6a8;
+}
+
+nav a:hover::after {
+    width: 100%;
+}
+
+/* main page */
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.content h1 {
+    font-size: clamp(38px, 6vw, 68px);
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 35px;
+    letter-spacing: 1px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 16px 38px;
+    font-size: 17px;
+    background: linear-gradient(135deg, #178a60, #20a874);
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+    box-shadow: 0 5px 20px rgba(23, 138, 96, 0.35);
+    transition: all 0.25s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(32, 168, 116, 0.5);
+}
+
+/* about panel */
+
+.about-section {
+    position: fixed;
+    top: 115px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 115px);
+
+    background: #f7f8fa;
+    color: #17191d;
+
+    padding: 45px 25px 60px;
+
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    transform: translateY(110%);
+    transition: transform 0.55s ease;
+
+    z-index: 10;
+    overscroll-behavior: contain;
+}
+
+.about-section.active {
+    transform: translateY(0);
+}
+
+.about-container {
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+/* intro */
+
+.about-header {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.section-label {
+    display: inline-block;
+    color: #178a60;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.about-header h2 {
+    font-size: clamp(28px, 4vw, 38px);
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.about-header p {
+    max-width: 850px;
+    margin: 0 auto 13px;
+    color: #4c515b;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+/* general rections */
+
+.story-heading {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin: 45px 0 30px;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.story-card {
+    background: white;
+    border: 1px solid #e5e8ee;
+    border-radius: 14px;
+    padding: 30px 35px;
+    box-shadow: 0 4px 16px rgba(20, 30, 50, 0.04);
+}
+
+.story-card h3 {
+    font-size: 22px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    color: #17191d;
+}
+
+.year {
+    display: inline-block;
+    color: #178a60;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 8px;
+}
+
+.story-card p {
+    color: #505560;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-bottom: 13px;
+}
+
+.story-card p:last-of-type {
+    margin-bottom: 0;
+}
+
+/* btns */
+
+.button-wrapper {
+    margin-top: 22px;
+}
+
+.project-button {
+    display: inline-block;
+    padding: 12px 23px;
+    background: #178a60;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+    transition: all 0.25s ease;
+}
+
+.project-button:hover {
+    background: #11704d;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(23, 138, 96, 0.2);
+}
+
+/* participants */
+
+.participants {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.participants h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+
+.participant-card {
+    background: white;
+    border: 1px solid #e5e8ee;
+    border-radius: 12px;
+    padding: 20px 25px;
+    margin-bottom: 12px;
+}
+
+.participant-card p {
+    color: #505560;
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+.participant-card strong {
+    color: #17191d;
+}
+
+/* new scrollbar */
+
+.about-section::-webkit-scrollbar {
+    width: 8px;
+}
+
+.about-section::-webkit-scrollbar-track {
+    background: #f0f1f4;
+}
+
+.about-section::-webkit-scrollbar-thumb {
+    background: #c5cad3;
+    border-radius: 10px;
+}
+
+.about-section::-webkit-scrollbar-thumb:hover {
+    background: #929aa8;
+}
+
+/* mobile */
+
+@media (max-width: 700px) {
+    nav {
+        height: 90px;
+        padding: 15px 20px;
+    }
+
+    .logo img {
+        height: 55px;
+    }
+
+    .links {
+        position: static;
+        transform: none;
+        gap: 18px;
+    }
+
+    nav a {
+        font-size: 14px;
+    }
+
+    .about-section {
+        top: 90px;
+        height: calc(100% - 90px);
+        padding: 25px 15px 40px;
+    }
+
+    .about-header {
+        margin-bottom: 25px;
+    }
+
+    .about-header p {
+        font-size: 14px;
+        line-height: 1.7;
+    }
+
+    .story-heading {
+        font-size: 25px;
+        margin: 35px 0 22px;
+    }
+
+    .story-card {
+        padding: 22px 18px;
+    }
+
+    .story-card h3 {
+        font-size: 19px;
+    }
+
+    .story-card p,
+    .participant-card p {
+        font-size: 14px;
+    }
+
+    .participants h2 {
+        font-size: 25px;
+    }
+
+    .participant-card {
+        padding: 18px;
+    }
+
+    .content h1 {
+        font-size: 38px;
+    }
+
+    .btn {
+        padding: 14px 28px;
+        font-size: 15px;
+    }
+}
+    

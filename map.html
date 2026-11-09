@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- juicebct / Skolēnu dzīve / https://github.com/juicebct -->
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pilsētas karte</title>
+
+    <!-- Styles and icons -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link href="css/base.css" rel="stylesheet" type="text/css">
+    <link href="css/sidebar.css" rel="stylesheet" type="text/css">
+    <link href="css/map.css" rel="stylesheet" type="text/css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+<nav class="sidebar">
+  <a class="logo" href="index.html"><img src="images/piezimes.svg" alt=""></a>
+  <a href="game.html"><img src="icons/chat.svg" alt="">Ziņas</a>
+  <a href="map.html"><img src="icons/map.svg" alt="">Karte</a>
+  <a href="about.html"><img src="icons/about.svg" alt="">Par spēli</a>
+  <a href="#" id="reset-progress-button" class="reset-button"><img src="icons/reset.svg" alt="">Jauna spēle</a>
+</nav>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/map.js"></script>
+</body>
+</html>

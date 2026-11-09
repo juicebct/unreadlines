@@ -1,0 +1,1792 @@
+{
+  "dialogs": [
+    {
+      "id": 1,
+      "name": "Piezimes",
+      "avatar_path": "images/piezimes.png",
+      "questions": [
+        {
+          "id": 1,
+          "sender_name": "Piezimes",
+          "message": "Es atkal esmu šeit <br> Pēc visiem šiem gadiem. Tas pats pagalms, tās pašas mājas. Bet viss šķiet... citāds <br> Es biju prom... cik? Seši gadi? Septiņi? <br>Un dzīz — jauna skola. Nu labi, vecā. Bet jauna man <br> <br> Ko viņi domās? Vai kāds vispār mani atcerēsies? <br>Ko, ja es atkal būšu “tas jaunais”? <br>Kad biju mazs, viss šķita lielāks. Pagalmi. Cilvēki. Es pats <br> Tagad viss it kā sabrucis. Vai esmu vienkārši pieaudzis?",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 1,
+          "answers": [
+            {
+              "id": 1,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "1. NODAĻA. Datums: 20. augusts.",
+          "avatar_path": "images/nod-1.svg",
+          "sequence": 2,
+          "answers": [
+            {
+              "id": 2,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "sender_name": "Piezimes",
+          "message": "Pēc īsās sapulces skolā, kur klases audzinātāja uzsmaidīja un novēlēja mums veiksmīgu gadu, mēs — visa klase — devāmies ārā.<br>Bija silts, bezvējš. Markuss piedāvāja doties uz “to stūri pie upes”, kur mēs reiz bērnībā spēlējāmies. Es pats tur nebiju gājis gadiem.<br><br>Tur mūs jau gaidīja pāris klasesbiedru ar limonādi un čipsiem. Kāds atnesa skaļruni. Vika nolika pledu, Dāvis kaut ko jokoja. Kira klusām skatījās telefonā, bet smaids nelika domāt, ka viņa pret.<br>Es sēdēju uz zāles un vēroju upi. Tā pati, bet es jau cits.<br><br>Neviens mani nepazina, bet neviens arī nelika justies liekam.<br><br>Markuss nometās blakus un parādīja vietu, kur kādreiz bijām taisījuši 'slepeno bāzi'. Vieta aizmirsta, bet atmiņas — skaidras.<br><br>Tā sākās šis gads.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 16,
+          "answers": [
+            {
+              "id": 36,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "3. NODAĻA. Datums: 3. oktobris",
+          "avatar_path": "images/nod-3.png",
+          "sequence": 17,
+          "answers": [
+            {
+              "id": 37,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "sender_name": "Piezimes",
+          "message": "Pirmā KD. Skaitļi uz papīra — bet spriedze dzīva. <br> Grupa, kas nesen smējās pie upes, tagad dalās. Daži uzbrūk, daži klusē. <br> Pat Kira, šķiet, ne tik pārliecināta, kā izliekas. <br> Es? Es vēl meklēju savu vietu. <br> <br> Viņi ir draudzīgi. Bet zem spiediena — plaisā.<br> Kas mēs esam — klase vai vienkārši nejauši cilvēki vienā ēkā?",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 20,
+          "answers": [
+            {
+              "id": 44,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 48,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "4. NODAĻA. Datums: 20. oktobris, pēcpusdienā",
+          "avatar_path": "images/nod-4.png",
+          "sequence": 21,
+          "answers": [
+            {
+              "id": 45,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 68,
+          "sender_name": "Piezimes",
+          "message": "Dabas diena<br>24. oktobris<br><br>Mežs. Koki kā sienas. Klusums, kur pat soļi liekas skaļi.<br>Gājām klusāk, nekā gaidīju. Sākumā visi ar telefoniem, bet tad…<br><br>Sarunas lēni iešūpojās.<br>Par to, kurš kur dzīvo, kas patīk, kas ne.<br>Sēdējām pie ugunskura.<br>Skolotāja klusēja vairāk nekā mēs.<br> <br>Nezinu, vai mēs jau esam draugi. Bet šodien — bijām kopā.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 24,
+          "answers": [
+            { 
+              "id": 50, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 69,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "5. NODAĻA. Datums: 15. novembris, vakars",
+          "avatar_path": "images/nod-5.svg",
+          "sequence": 25,
+          "answers": [
+            {
+              "id": 51,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 81,
+          "sender_name": "Piezimes",
+          "message": "Fotodiena<br>22. maijs<br><br>Viņi sabrauca ar somām, kedām un krūzītēm. Katra bilde — nevis ideāla, bet īsta.<br>Kaut kur aiz kadra kāds smejas. Kaut kur cits tikai stāv, bet arī tas ir svarīgi.<br>Viņi nav ideāli. Bet kāds šajā klasē bija gatavs nospiest pogu 'atmiņa', pat ja visi nebija formā.<br>Es arī biju kadrā.<br>Un tas… tas bija svarīgi.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 28,
+          "answers": [
+            { 
+              "id": 56, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 82,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "6. NODAĻA. Datums: 5. decembris",
+          "avatar_path": "images/nod-6.png",
+          "sequence": 29,
+          "answers": [
+            {
+              "id": 57,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "sender_name": "Piezimes",
+          "message": "Priekšnesums<br>22. decembris<br><br>Aizkulises smaržoja pēc dekoriem un mandarīniem.<br>Kāds kliedza, kāds smējās, kāds meklēja savu cepuri.<br><br>Kad iznācu uz skatuves, kājas trīcēja.<br>Teksts aizmirsās pirmajā sekundē.<br><br>Bet aiz muguras - kāds nočukstēja: 'Davai.'<br><br>Es ieelpoju.<br>Skatījos zālē.<br>Un vienkārši pateicu:<br><br>'Ar Jauno gadu, draugi!'<br><br>Un viņi… noticēja.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 34,
+          "answers": [
+            { 
+              "id": 66, 
+              "text": "Tālāk", 
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "7. NODAĻA. Datums: 23. maijs",
+          "avatar_path": "images/nod-7.png",
+          "sequence": 35,
+          "answers": [
+            {
+              "id": 67,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "sender_name": "Piezimes",
+          "message": "Pēdējā nedēļa <br><br> Zālē būs baloni, uz sienām — attēli, kas stāsta vairāk nekā mēs spētu pateikt.<br>Kāds rakstīja tekstus, kāds montēja video, kāds tikai smējās un teica: 'Es neticu, ka tas viss beidzas.'<br>Man iedeva vārdus nobeigumam.<br>Balsī bija smiltis. Bet viņi klausījās. <br> Un es pateicu — paldies. <br> Ne perfekti. Bet īsti.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 39,
+          "answers": [
+            { 
+              "id": 80, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "sender_name": "Piezimes",
+          "message": "Izlaidums <br><br> Skola bija tukša kā teātris pēc izrādes. <br>Mēs savācām savas mantas, aizslaucījām galdu stūrus, atstājām piezīmes uz tāfeles. Kāds rakstīja “paldies”, kāds — tikai smaidiņu. <br> Albumos parādījās pirmie paraksti. Mazliet ķeburaini, mazliet nopietni. <br> Izlaidumā skanēja mūzika, neviens vairs neturējās <br> Kad pienāca mana kārta, es izgāju priekšā. <br>Viņi klausījās. <br> Klusēja. <br> Un tad — aplaudēja. <br> Es redzēju Markusa acis. Kiras smaidu. Diānas asaras. <br> Viņi nebija tikai klasesbiedri. <br> Viņi bija stāsts <br> Un tagad — arī mans.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 40,
+          "answers": [
+            { 
+              "id": 81, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "sender_name": "",
+          "type": "black-screen",
+          "message": "EPILOGS. Datums: 30. jūnijs, 20:41",
+          "avatar_path": "images/nod-8.png",
+          "sequence": 41,
+          "answers": [
+            {
+              "id": 51,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "sender_name": "Piezimes",
+          "message": "Tas nebija tikai mācību gads.<br> Es viņu izdzīvoju. No pirmā ziņojuma, no mulsuma gaitenī, līdz pēdējam aplausam. <br> Es biju svešais. Un kļuvu savējais. <br> Tagad es zinu: var aizbraukt. Bet var arī atgriezties. <br> Pie sevis.",
+          "avatar_path": "images/piezimes.png",
+          "sequence": 46,
+          "answers": [
+            { 
+              "id": 89, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Markus",
+      "avatar_path": "images/markus.png",
+      "questions": [
+        {
+          "id": 3,
+          "sender_name": "Markus",
+          "message": "Čau. Es dzirdēju, ka tu atgriezies.",
+          "avatar_path": "images/markus.png",
+          "sequence": 3,
+          "answers": [
+            {
+              "id": 3,
+              "text": "Čau. Jā, nesen atbraucām. Vēl īsti nepierodu.",
+              "points": 1
+            }, 
+            {
+              "id": 4,
+              "text": "Hej, jā. Ir laiks atgriezties.",
+              "points": 1
+            },
+            {
+              "id": 5,
+              "text": "Jā, pārvācāmies. It kā pazīstama vieta, bet sajūta — kā svešumā.",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "sender_name": "Markus",
+          "message": "Tu nāksi uz mūsu skolu, ja?",
+          "avatar_path": "images/markus.png",
+          "sequence": 4,
+          "answers": [
+            {
+              "id": 6,
+              "text": "Tā sanāk. Teica, ka esmu pie jūsu klases.",
+              "points": 1
+            },
+            {
+              "id": 7,
+              "text": "Jā, būs interesanti redzēt, kas mainījies.",
+              "points": 1
+            },
+            {
+              "id": 8,
+              "text": "Jā, tikai tagad jāsaprot, kā viss tur darbojas...",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "sender_name": "Markus",
+          "message": "Nice. Būs interesanti. Vai tu vispār atceries, kā izskatījās mūsu skola?",
+          "avatar_path": "images/markus.png",
+          "sequence": 5,
+          "answers": [
+            {
+              "id": 9,
+              "text": "Gandrīz neko. Tikai tādu sajūtu, ka griesti bija augstāki un gaitenis - bezgalīgs. ",
+              "points": 2
+            },
+            {
+              "id": 10,
+              "text": "Jā, bet vairāk kā miglu. Kaut kādas detaļas, bet bez sajūtas",
+              "points": 1
+            },
+            {
+              "id": 11,
+              "text": "Atceros, bet neesmu pārliecināts, ka gribu to visu izrakt no galvas",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "sender_name": "Markus",
+          "message": "<img src='images/skola.svg' style='width:300px; height:300px; display:block; margin-top:10px;' />",
+          "avatar_path": "images/markus.png",
+          "sequence": 6,
+          "answers": []
+        },
+        {
+          "id": 7,
+          "sender_name": "Markus",
+          "message": "Tev vispār kāds vēl palicis no vecajiem paziņām?",
+          "avatar_path": "images/markus.png",
+          "sequence": 6,
+          "answers": [
+            {
+              "id": 12,
+              "text": "Ne pārāk. Daudzi, šķiet, pazuduši bez pēdām.",
+              "points": 1
+            },
+            {
+              "id": 13,
+              "text": "Dažus vārdus vēl atceros, bet sejas gan ne.",
+              "points": 2
+            },
+            {
+              "id": 14,
+              "text": "Godīgi? Neviens prātā nenāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "sender_name": "Markus",
+          "message": "Nu vismaz mēs viens otru pazīstam. Vieglāk sākt.",
+          "avatar_path": "images/markus.png",
+          "sequence": 7,
+          "answers": [
+            {
+              "id": 15,
+              "text": "Jā, vismaz kāda pazīstama seja.",
+              "points": 1
+            },
+            {
+              "id": 16,
+              "text": "Paldies, ka uzrakstīji, tas palīdz.",
+              "points": 2
+            },
+            {
+              "id": 17,
+              "text": "Ceru, ka pārējie būs normāli.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "sender_name": "Markus",
+          "message": "Atceries to spēļu laukumu pie GORSA?",
+          "avatar_path": "images/markus.png",
+          "sequence": 8,
+          "answers": [
+            {
+              "id": 18,
+              "text": "Atceros. Tur visu dienu varējām nosist.",
+              "points": 1
+            },
+            {
+              "id": 19,
+              "text": "Vakar biju garām — liekas tik mazs tagad.",
+              "points": 1
+            },
+            {
+              "id": 20,
+              "text": "Jā. Tur mēs toreiz sacentāmies, kurš augstāk uzkāps.",
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "sender_name": "Markus",
+          "message": "Man pat bilde vēl ir. Paskaties.",
+          "avatar_path": "images/markus.png",
+          "sequence": 9,
+          "answers": []
+        },
+        {
+          "id": 11,
+          "sender_name": "Markus",
+          "message": "<img src='images/spelu-laukums.png' style='width:300px; height:300px; display:block; margin-top:10px;' />",
+          "avatar_path": "images/markus.png",
+          "sequence": 9,
+          "answers": [
+            {
+              "id": 21,
+              "text": "Haha, tas es? Tās drēbes...",
+              "points": 2
+            },
+            {
+              "id": 22,
+              "text": "Jā, toreiz viss šķita tik svarīgs.",
+              "points": 1
+            },
+            {
+              "id": 23,
+              "text": "Nezināju, ka tev vēl šī bilde ir.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "sender_name": "Markus",
+          "message": "Tūlīt pievienošu tevi mūsu klases grupā. Tur viss notiek.",
+          "avatar_path": "images/markus.png",
+          "sequence": 10,
+          "answers": [
+            {
+              "id": 24,
+              "text": "Labi, jau gaidu.",
+              "points": 1
+            },
+            {
+              "id": 25,
+              "text": "Cerams, ka tur nav pārāk daudz troksņa.",
+              "points": 0
+            },
+            {
+              "id": 26,
+              "text": "Ok, būšu klusais vērotājs. Vismaz sākumā.",
+              "points": 2
+            }
+          ]
+        },
+        {
+          "id": 1000,
+          "sender_name": "Markus",
+          "message": "Un tomēr… tu atgriezies ne velti. <br> Bez tevis šis viss būtu cits stāsts. Mazāk īsts.",
+          "avatar_path": "images/markus.png",
+          "sequence": 44,
+          "answers": []
+        },
+        {
+          "id": 12,
+          "sender_name": "Markus",
+          "message": "Zini, es sākumā biju skeptisks. <br> Tu biji “tas čalis no citurienes”. <br> Bet tu kļuvi par mūsu cilvēku. Īsteni.",
+          "avatar_path": "images/markus.png",
+          "sequence": 44,
+          "answers": [
+            {
+              "id": 24,
+              "text": "Paldies, ka biji blakus no pirmās dienas.",
+              "points": 2
+            },
+            {
+              "id": 25,
+              "text": "Tu arī man palīdzēji būt šeit.",
+              "points": 1
+            },
+            {
+              "id": 26,
+              "text": "Es nedomāju, ka palikšu. Bet tagad žēl doties.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "sender_name": "Markus",
+          "message": "Nav svarīgi, kur būsi rīt. <br> Svarīgi, ka tu biji te — šodien. Un to neviens neatņems.",
+          "avatar_path": "images/markus.png",
+          "sequence": 45,
+          "answers": [
+            {
+              "id": 26,
+              "text": "Tālāk.",
+              "points": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "mafija 9b",
+      "avatar_path": "images/beseda.svg",
+      "questions": [
+        {
+          "id": 13,
+          "sender_name": "",
+          "message": "Lietotājs Markus ir pievienojis jūs sarunai.",
+          "avatar_path": "images/notification.png",
+          "sequence": 11,
+          "answers": []
+        },
+        {
+          "id": 14,
+          "sender_name": "Vika",
+          "message": "Oho, jauns cilvēks!",
+          "avatar_path": "images/vika.svg",
+          "sequence": 11,
+          "answers": []
+        },
+        {
+          "id": 15,
+          "sender_name": "Dāvis",
+          "message": "Sveiks! Kas tu tāds?",
+          "avatar_path": "images/davis.png",
+          "sequence": 11,
+          "answers": []
+        },
+        {
+          "id": 16,
+          "sender_name": "Kira",
+          "message": "Tas kurš tikko ienāca - tas ir kas?",
+          "avatar_path": "images/kira.png",
+          "sequence": 11,
+          "answers": []
+        },
+        {
+          "id": 17,
+          "sender_name": "Markus",
+          "message": "Tas ir {userName}, mans draugs. Mēs kopā bērnībā pavadījām laiku. Tagad viņš mācīsies ar mums.",
+          "avatar_path": "images/markus.png",
+          "sequence": 11,
+          "answers": [
+            { 
+              "id": 27, 
+              "text": "Sveiki visiem! Esmu vietējais spoku mednieks, un, jā, es tagad jūsu klasē. Ceru, ka kāds atvedīs ekskursijā pa šo čatu.", 
+              "points": 2,
+              "branch_id": "branch_1"
+            },
+            { 
+              "id": 28, 
+              "text": "Čau visiem. Esmu {userName}. Pārvācos atpakaļ uz šo pilsētu, būšu ar jums vienā klasē. Prieks iepazīties.", 
+              "points": 1,
+              "branch_id": "branch_2" 
+            },
+            { 
+              "id": 29, 
+              "text": "Sveiki. {userName}. Tikko pārvācos. Tā kā… jā.", 
+              "points": 0,
+              "branch_id": "branch_3" 
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "sender_name": "Toms",
+          "message": "Tad jau būs interesants 1. septembris. Starp citu, par to vēl jāsarunā.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 12,
+          "answers": []
+        },
+        {
+          "id": 19,
+          "sender_name": "Kira",
+          "message": "Jā, mums vēl jāizdomā, ko darīt pirmajā dienā.",
+          "avatar_path": "images/kira.png",
+          "sequence": 12,
+          "answers": [
+            {
+              "id": 30,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "sender_name": "----",
+          "type": "black-screen",
+          "message": "2. NODAĻA. Datums: 28. augusts, vakarā",
+          "avatar_path": "images/nod-2.png",
+          "sequence": 13,
+          "answers": [
+            {
+              "id": 31,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "sender_name": "Kira",
+          "message": "Ok, cilvēki. Vajag izlemt, ko darām 1. septembrī. <br> Skola teica, ka nav nekas obligāti jārīko, bet varam paši izdomāt, ja gribam.",
+          "avatar_path": "images/kira.png",
+          "sequence": 14,
+          "answers": []
+        },
+        {
+          "id": 22,
+          "sender_name": "Vika",
+          "message": "Es esmu par kaut ko chillīgu. Bez garas runāšanas no direktora 😅",
+          "avatar_path": "images/vika.svg",
+          "sequence": 14,
+          "answers": []
+        },
+        {
+          "id": 23,
+          "sender_name": "Dāvis",
+          "message": "Varētu vienkārši aiziet uz kaut kādu kafejnīcu. Tiem, kas grib.",
+          "avatar_path": "images/davis.png",
+          "sequence": 14,
+          "answers": []
+        },
+        {
+          "id": 24,
+          "sender_name": "Toms",
+          "message": "Vai parkā satikties? Pirmais rīts tak vienmēr īss.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 14,
+          "answers": []
+        },
+        {
+          "id": 26,
+          "sender_name": "Kira",
+          "message": "Jā, variants. Vai arī klasē varētu spēles uztaisīt vai kaut ko neformālu.",
+          "avatar_path": "images/kira.png",
+          "sequence": 14,
+          "answers": []
+        },
+        {
+          "id": 27,
+          "sender_name": "Markus",
+          "message": "Mums bērnībā ar kompāniju bija tāds stūris pie upes. Vēl joprojām tur var iet. <br> Bet jā, jūsu izvēle.",
+          "avatar_path": "images/markus.png",
+          "sequence": 14,
+          "answers": [
+            { 
+              "id": 32, 
+              "text": "Es tikko pārvācos, tā ka jebkur būs jauns piedzīvojums 😄 <br> Tikai, lūdzu, bez direktora 30 minūšu monologiem…", 
+              "points": 2,
+              "branch_id": "branch_4"
+            },
+            { 
+              "id": 33, 
+              "text": "Es vēl neko šeit īpaši nezinu, bet varu pielāgoties. <br> Ja būs kaut kur ārā — tikai pasakiet vietu un laiku.", 
+              "points": 1,
+              "branch_id": "branch_5" 
+            },
+            { 
+              "id": 34, 
+              "text": "Varu būt. Galvenais - lai nav pārāk formāli.", 
+              "points": 0,
+              "branch_id": "branch_6" 
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "sender_name": "Kira",
+          "message": "Labi, uztaisīšu aptauju. <br> Balsojam līdz rītam. Tad zināsim, kas notiek.",
+          "avatar_path": "images/kira.png",
+          "sequence": 15,
+          "answers": []
+        },
+        {
+          "id": 29,
+          "sender_name": "",
+          "message": "Lietotājs Kira ir izveidojis jaunu aptauju grupā.",
+          "avatar_path": "images/notification.png",
+          "sequence": 15,
+          "answers": []
+        },
+        {
+          "id": 30,
+          "sender_name": "",
+          "message": "Aptaujas nosaukums ir '1. septembris'. <br> <br> 1) Tikšanās parkā <br> 2) Kafejnīca <br>3) Klase ar spēlēm <br>4) Pie upes",
+          "avatar_path": "images/notification.png",
+          "sequence": 15,
+          "answers": [
+            {
+              "id": 35,
+              "text": "Tālāk.",
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "sender_name": "",
+          "message": "Datums: 3. oktobris.",
+          "avatar_path": "images/notification.png",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 34,
+          "sender_name": "Dāvis",
+          "message": "Nu kas? Gatavi matemātikai? 😐",
+          "avatar_path": "images/davis.png",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 35,
+          "sender_name": "Vika",
+          "message": "Gatava - būt slima un neiet rīt uz skolu 😅",
+          "avatar_path": "images/vika.svg",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 36,
+          "sender_name": "Toms",
+          "message": "Paga, kas vispār būs? Vienādojumi?",
+          "avatar_path": "images/toms.svg",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 37,
+          "sender_name": "Kira",
+          "message": "Viss no 1. līdz 3. temam. Es sūtīšu konspektu vēlreiz.",
+          "avatar_path": "images/kira.png",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 38,
+          "sender_name": "Dāvis",
+          "message": "Nopietni? Visu? Tu domā, ka mēs visi — kalkulatori?",
+          "avatar_path": "images/davis.png",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 39,
+          "sender_name": "Vika",
+          "message": "Atkal Kira grib, lai visi dabū 10 😑",
+          "avatar_path": "images/vika.svg",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 40,
+          "sender_name": "Kira",
+          "message": "Es neko negribu. Vienkārši jāmācās. Tā ir skola, nevis nometne",
+          "avatar_path": "images/kira.png",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 41,
+          "sender_name": "Toms",
+          "message": "Tu gan vari nedaudz atlaist. Ne visi grib mirt par KD",
+          "avatar_path": "images/toms.svg",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 42,
+          "sender_name": "Kira",
+          "message": "Ja gribi trijnieku — tava darīšana. Man svarīgi noslēgt gadu labi",
+          "avatar_path": "images/kira.png",
+          "sequence": 18,
+          "answers": []
+        },
+        {
+          "id": 43,
+          "sender_name": "Dāvis",
+          "message": "Tāds spiediens. Neesi mūsu skolotāja",
+          "avatar_path": "images/davis.png",
+          "sequence": 18,
+          "answers": [
+            { 
+              "id": 38, 
+              "text": "Hei, mierīgi. Visiem stresiņš. Varbūt padalāmies ar materiāliem un izpalīdzam viens otram? Bez agresijas", 
+              "points": 2,
+              "branch_id": "branch_7"
+            },
+            { 
+              "id": 39, 
+              "text": "Kira, nu nopietni — nav visiem jāsaspringst uz desmitniekiem. Katram savs temps.", 
+              "points": 0,
+              "branch_id": "branch_8" 
+            },
+            { 
+              "id": 40, 
+              "text": "Nav jēgas te ķīvēties. Vienkārši ejam gulēt, un no rīta redzēs, kas būs", 
+              "points": 1,
+              "branch_id": "branch_9" 
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Diāna",
+      "avatar_path": "images/diana.png",
+      "questions": [
+        {
+          "id": 44,
+          "sender_name": "Diana",
+          "message": "Es reāli ienīstu kontrolēs. Gribas vienkārši… pazust. <br> It kā nekas traks, bet man vienmēr liekas, ka manis būs par maz.",
+          "avatar_path": "images/diana.png",
+          "sequence": 19,
+          "answers": []
+        },
+        {
+          "id": 45,
+          "sender_name": "Diana",
+          "message": "Citi laikam pieraduši pie stresa. Bet man - vienkārši aizveras smadzenes. <br> Es skatos uz uzdevumu, un viss - tukšums.",
+          "avatar_path": "images/diana.png",
+          "sequence": 19,
+          "answers": []
+        },
+        {
+          "id": 46,
+          "sender_name": "Diana",
+          "message": "Skolotājiem tas ir 'vērtēšana', mums - sajūta, ka kāds pārbauda, vai esi pietiekams cilvēks.",
+          "avatar_path": "images/diana.png",
+          "sequence": 19,
+          "answers": [
+            { 
+              "id": 41, 
+              "text": "Tu esi gana laba. Tie ir tikai uzdevumi.", 
+              "points": 1,
+              "branch_id": "branch_10"
+            },
+            { 
+              "id": 42, 
+              "text": "Es jūtu līdzīgi. Skola dažreiz liek justies sīkam.", 
+              "points": 1,
+              "branch_id": "branch_11" 
+            },
+            { 
+              "id": 43, 
+              "text": "Ja kas — varam kopā paskatīties, kas būs rīt.", 
+              "points": 1,
+              "branch_id": "branch_12" 
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "sender_name": "Diāna",
+          "message": "Zini… Ja Tu apstāsies skatuves vidū un klusēsi — es vienkārši aiziešu. <br> Tā kā… reāli aiziešu.",
+          "avatar_path": "images/diana.png",
+          "sequence": 32,
+          "answers": []
+        },
+        {
+          "id": 101,
+          "sender_name": "Diāna",
+          "message": "Bet zini, es ticu, ka Tu to vari. <br> Tik vienkārši. Neizdomā sarežģīti — vienkārši esi Tu.",
+          "avatar_path": "images/diana.png",
+          "sequence": 32,
+          "answers": [
+            { 
+              "id": 60, 
+              "text": "Es padošu Tev mājienu, ja apjukšu. Tikai nepaej prom.", 
+              "points": 2
+            },
+            { 
+              "id": 61, 
+              "text": "Tu būsi mana drošības virve. Skatuves alpīnismā.", 
+              "points": 0
+            },
+            { 
+              "id": 62, 
+              "text": "Tu man tici? Pirmā.", 
+              "points": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "9.b klase",
+      "avatar_path": "images/beseda2.svg",
+      "questions": [
+        {
+          "id": 49,
+          "sender_name": "",
+          "message": "Datums: 20. oktobris.",
+          "avatar_path": "images/notification.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 50,
+          "sender_name": "Skolotāja Līva",
+          "message": "Sveiki, 9.b! <br> Nākamnedēļ mums būs Dabas diena. Šoreiz gribu, lai vietu izvēlaties paši — es palīdzēšu tikai ar organizatoriskām lietām.",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 51,
+          "sender_name": "Vika",
+          "message": "Ko, ja ejam uz Olimpiskais centrs ledus halli? Būtu aktīvi.",
+          "avatar_path": "images/vika.svg",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 52,
+          "sender_name": "Vika",
+          "message": "<img src='images/olimp.svg' style='width:300px; height:300px; display:block; margin-top:10px;' />",
+          "avatar_path": "images/vika.svg",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 53,
+          "sender_name": "Toms",
+          "message": "Uz ledu? Tur būs auksti, un kāds noteikti nokritīs.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 54,
+          "sender_name": "Dāvis",
+          "message": "Tad labāk GORS. Kino + silti + nekādu pārgājienu.",
+          "avatar_path": "images/davis.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 55,
+          "sender_name": "Lēva",
+          "message": "Vai arī “Zeimuļs”. Tur šobrīd ir tā izstāde par “Rezeknes pagātni”. Kaut kas citādāks.",
+          "avatar_path": "images/leva.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 56,
+          "sender_name": "Lēva",
+          "message": "<img src='images/zeimulis.svg' style='width:300px; height:300px; display:block; margin-top:10px;' />",
+          "avatar_path": "images/leva.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 57,
+          "sender_name": "Leha",
+          "message": "Vai nu visi gribam sēdēt, vai nu darām kaut ko īstu. <br> Ančupānu tornis. Tur ir mežs, klusums un nav uzraudzības katrā krūmā.",
+          "avatar_path": "images/leha.svg",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 58,
+          "sender_name": "Skolotāja Līva",
+          "message": "Tikai neaizmirsti, ka bez skolotājas jūs nekur netiksiet 😄 <br> Bet, ja būs laba organizācija — ir iespējams.",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 59,
+          "sender_name": "Markus",
+          "message": "Par torni piekrītu. <br> Šovasar tur biju — reāli iespaidīgs skats.",
+          "avatar_path": "images/markus.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 60,
+          "sender_name": "Markus",
+          "message": "<img src='images/ancupani.svg' style='width:300px; height:300px; display:block; margin-top:10px;' />",
+          "avatar_path": "images/markus.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 61,
+          "sender_name": "Markus",
+          "message": "Un runā, ka tur reiz viens puisis aizgāja… un vairs neatgriezās. <br> Tagad viņš esot torņa garīgais gids. Baro vāveres un rāda īsto ceļu. 😄",
+          "avatar_path": "images/markus.png",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 62,
+          "sender_name": "Vika",
+          "message": "Tu tiešām proti izjaukt romantiku.",
+          "avatar_path": "images/vika.svg",
+          "sequence": 22,
+          "answers": []
+        },
+        {
+          "id": 63,
+          "sender_name": "Toms",
+          "message": "Bet ideja nav slikta. Labāk nekā atkal parks vai kino.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 22,
+          "answers": [
+            { 
+              "id": 46, 
+              "text": "Tornis izklausās ideāli. Esmu par", 
+              "points": 2
+            },
+            { 
+              "id": 47, 
+              "text": "Man viss vienalga, bet skats no torņa nice.", 
+              "points": 0
+            },
+            { 
+              "id": 48, 
+              "text": "Es neesmu par torņiem, bet ja visi grib – nu labi.", 
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "sender_name": "Skolotāja Līva",
+          "message": "Izskatās, ka vairākums balso par Ančupānu torni. <br> Es sarunāšu autobusu līdz takai, bet tālāk — neliels pārgājiens.",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 23,
+          "answers": []
+        },
+        {
+          "id": 65,
+          "sender_name": "Dāvis",
+          "message": "Ceru, ka vismaz kāds nesīs ēdienu. Es nāku tikai ar čipsiem.",
+          "avatar_path": "images/davis.png",
+          "sequence": 23,
+          "answers": []
+        },
+        {
+          "id": 66,
+          "sender_name": "Leha",
+          "message": "Es ar desiņām un bailēm no lāčiem.",
+          "avatar_path": "images/leha.svg",
+          "sequence": 23,
+          "answers": []
+        },
+        {
+          "id": 67,
+          "sender_name": "Vika",
+          "message": "Tad varbūt vēl salvetes un kādu termosu ar tēju. Draudzīgi.",
+          "avatar_path": "images/vika.svg",
+          "sequence": 23,
+          "answers": [
+            { 
+              "id": 49, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 70,
+          "sender_name": "",
+          "message": "Datums: 15. novembris, vakars.",
+          "avatar_path": "images/notification.png",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 71,
+          "sender_name": "Kira",
+          "message": "Man ienāca prātā. <br> Uztaisām klases foto. Ne obligāti skolotāju organizēto. Paši. <br> Pirms viss beidzas.",
+          "avatar_path": "images/kira.png",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 72,
+          "sender_name": "Toms",
+          "message": "Nopietni? Tu par to bildi, kur visi rāda 'peace' un neviens neskatās kamerā?",
+          "avatar_path": "images/toms.svg",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 73,
+          "sender_name": "Kira",
+          "message": "Tieši tādu 😁 <br> Bet foršu. Lai paliek atmiņā.",
+          "avatar_path": "images/kira.png",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 74,
+          "sender_name": "Diāna",
+          "message": "Es par. <br> Pie tāfeles, ar tekstiem — '9.b izdzīvoja'. Kaut ko smieklīgu.",
+          "avatar_path": "images/diana.png",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 75,
+          "sender_name": "Leha",
+          "message": "Davai kosplējs. Visi kā no anime, vai kā zinātnieki. <br> Man mājās ir ķīmijas halāts. Gandrīz kā Breaking Bad.",
+          "avatar_path": "images/leha.svg",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 76,
+          "sender_name": "Markus",
+          "message": "Tikmēr skolotāja Līva, lasot šo čatu: 😐",
+          "avatar_path": "images/markus.png",
+          "sequence": 26,
+          "answers": []
+        },
+        {
+          "id": 77,
+          "sender_name": "Kira",
+          "message": "Reāli, bet kāds stils?<br>• Klasiski - baltas krekliņas?<br>• Ar formu?<br>• Vai tēlosim, piemēram, nākotni?",
+          "avatar_path": "images/kira.png",
+          "sequence": 26,
+          "answers": [
+            { 
+              "id": 52, 
+              "text": "Katrais paņem vienu priekšmetu, kas viņu raksturo.", 
+              "points": 1,
+              "branch_id": "branch_13"
+            },
+            { 
+              "id": 53, 
+              "text": "Foto uz jumta. Skats uz pilsētu. Brīvība.", 
+              "points": 1,
+              "branch_id": "branch_14" 
+            },
+            { 
+              "id": 54, 
+              "text": "Aiz katra – tāfele ar viņa citātu. Kaut ko smieklīgu vai īstu", 
+              "points": 1,
+              "branch_id": "branch_15" 
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "sender_name": "Toms",
+          "message": "Man mamma atsūtīja šo.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 27,
+          "answers": []
+        },
+        {
+          "id": 79,
+          "sender_name": "Toms",
+          "message": "<img src='images/mugursoma.png' style='width:300px; height:300px; display:block; margin-top:10px;' />",
+          "avatar_path": "images/toms.svg",
+          "sequence": 27,
+          "answers": []
+        },
+        {
+          "id": 80,
+          "sender_name": "Markus",
+          "message": "Es reāli izskatos kā cilvēks, kas taisījās kļūt par astronautu, bet kļuva par 9.b klases Markusu.",
+          "avatar_path": "images/markus.png",
+          "sequence": 27,
+          "answers": [
+            { 
+              "id": 55, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 83,
+          "sender_name": "",
+          "message": "Datums: 5. decembris",
+          "avatar_path": "images/notification.png",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 84,
+          "sender_name": "Skolotāja Līva",
+          "message": "Ziemassvētku koncerts tuvojas! <br> Mēs esam atbildīgi par vienu no priekšnesumiem. <br> Rīt klasē jāizdomā ideja un jāsadala lomas. 🎄",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 30,
+          "answers": []
+        }, 
+        {
+          "id": 85,
+          "sender_name": "Toms",
+          "message": "Lūdzu, tikai ne vēl viena garlaicīga kora dziesma. <br> Varbūt mēma luga? Vai kaut kas episks — kā 'Cīņa ar sniega pūķi'? 😄",
+          "avatar_path": "images/toms.svg",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 86,
+          "sender_name": "Kira",
+          "message": "Mēs varam palikt pie klasikas — Ziemassvētku vecītis, Sniegbaltīte, elfi, kāds joks. <br> Galvenais - lai bez stresa.",
+          "avatar_path": "images/kira.png",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 87,
+          "sender_name": "Diāna",
+          "message": "Es būtu gatava būt Sniegbaltīte. <br> Tikai ar nosacījumu — mans kolēģis arī spēj runāt uz skatuves. 😏",
+          "avatar_path": "images/diana.png",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 88,
+          "sender_name": "Markus",
+          "message": "Man šķiet, vajag sižetu + mūsu pašu humoru. <br> Un improvizēt, ja aizmirstas teksts. Tā būs pat labāk. 😂",
+          "avatar_path": "images/markus.png",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 89,
+          "sender_name": "Vika",
+          "message": "Vajag kaut ko citādāku. <br> Piemēram - Japāņu Jaunais gads. <br> Krāsaini lukturi, tradicionālas maskas, bungu ritmi.",
+          "avatar_path": "images/vika.svg",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 90,
+          "sender_name": "Vika",
+          "message": "<iframe width='560' height='315' src='https://www.youtube.com/embed/oIptNoo_5Is' frameborder='0' allowfullscreen></iframe>",
+          "avatar_path": "images/vika.svg",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 91,
+          "sender_name": "Lēva",
+          "message": "Ko jūs sakāt par filmas motīvu? <br> Piemēram, 'Home Alone' — mēs izspēlējam Kevina ainas ar mūsu klasē. <br> Es varu kliegt uz skatuves. Skaļi.",
+          "avatar_path": "images/leva.png",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 92,
+          "sender_name": "Dāvis",
+          "message": "Man iepatikās TikTok trendi — klusā deja ar lukturīšiem. <br> Katram lukturis un deja tumsā. Vienkārši, bet mega efekts.",
+          "avatar_path": "images/davis.png",
+          "sequence": 30,
+          "answers": []
+        },
+        {
+          "id": 93,
+          "sender_name": "Kira",
+          "message": "Ok, pierakstu: <br> - Japāņu Jaunais gads <br> - 'Home Alone' sižets <br> - Lukturīšu deja <br> - Tradicionālais Ziemassvētku stāsts <br>Rīt klasē nobalsosim. ✔️",
+          "avatar_path": "images/kira.png",
+          "sequence": 30,
+          "answers": [
+            { 
+              "id": 58, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 94,
+          "sender_name": "",
+          "message": "Datums: 6. decembris",
+          "avatar_path": "images/notification.png",
+          "sequence": 31,
+          "answers": []
+        },
+        {
+          "id": 95,
+          "sender_name": "Kira",
+          "message": "Tātad… rezultāti ir! Ziemassvētku vecītis būs… {userName}",
+          "avatar_path": "images/kira.png",
+          "sequence": 31,
+          "answers": []
+        },
+        {
+          "id": 96,
+          "sender_name": "Toms",
+          "message": "Ooo, cienījams tituls! Ceru, ka nebūs vilšanās.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 31,
+          "answers": []
+        },
+        {
+          "id": 97,
+          "sender_name": "Diāna",
+          "message": "Ja tu esi vecītis - tad es patiešām būšu Sniegbaltīte.",
+          "avatar_path": "images/diana.png",
+          "sequence": 31,
+          "answers": []
+        },
+        {
+          "id": 98,
+          "sender_name": "Markus",
+          "message": "{userName}, tikai nelieto 'Ho-ho-ho' kā robots. Tev jāsaka to kā… aktierim 😄",
+          "avatar_path": "images/markus.png",
+          "sequence": 31,
+          "answers": []
+        },
+        {
+          "id": 99,
+          "sender_name": "Kira",
+          "message": "Es būšu sniegpārsliņa #3. <br> Tikai dejošana. Nekādas runas. Nekādas kļūdas. Perfekti.",
+          "avatar_path": "images/kira.png",
+          "sequence": 31,
+          "answers": [
+            { 
+              "id": 59, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "sender_name": "",
+          "message": "Datums: 23. maijs",
+          "avatar_path": "images/notification.png",
+          "sequence": 36,
+          "answers": []
+        },
+        {
+          "id": 106,
+          "sender_name": "Kira",
+          "message": "Mums vajag padomāt, kā pateikt 'paldies' skolotājiem. <br> Ne tikai ziedi. Kaut ko īstu.",
+          "avatar_path": "images/kira.png",
+          "sequence": 36,
+          "answers": []
+        },
+        {
+          "id": 107,
+          "sender_name": "Diāna",
+          "message": "Slaidrāde ar bildēm no visa gada. <br> Ar mūsu balss ierakstiem fonā?",
+          "avatar_path": "images/diana.png",
+          "sequence": 36,
+          "answers": []
+        },
+        {
+          "id": 108,
+          "sender_name": "Leha",
+          "message": "Es varu sakārtot projektoru. Bet negribu raudāt.",
+          "avatar_path": "images/leha.svg",
+          "sequence": 36,
+          "answers": []
+        },
+        {
+          "id": 109,
+          "sender_name": "Vika",
+          "message": "Stendavīze - katrs ieraksta vienu teikumu par to, kas paliks atmiņā. <br> Bez filtriem.",
+          "avatar_path": "images/vika.svg",
+          "sequence": 36,
+          "answers": []
+        },
+        {
+          "id": 110,
+          "sender_name": "Toms",
+          "message": "Vai atskaņas? Kāds lasīs dzeju beigās?",
+          "avatar_path": "images/toms.svg",
+          "sequence": 36,
+          "answers": []
+        },
+        {
+          "id": 111,
+          "sender_name": "Kira",
+          "message": "Jā… Tas būtu skaisti. <br> Vajag, lai kāds spējīgs aizturēt balsi, kad visi skatās.",
+          "avatar_path": "images/kira.png",
+          "sequence": 36,
+          "answers": [
+            { 
+              "id": 68, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "sender_name": "",
+          "message": "Datums: 25. maijs, vakars",
+          "avatar_path": "images/notification.png",
+          "sequence": 38,
+          "answers": []
+        },
+        {
+          "id": 116,
+          "sender_name": "Markus",
+          "message": "Jūs vispār atceraties, kā {userName} nokavēja pirmo dienu? Un ienāca, it kā neko. <br> Skolotāja domāja, ka viņš ir no citas klases 😂",
+          "avatar_path": "images/markus.png",
+          "sequence": 38,
+          "answers": []
+        },
+        {
+          "id": 117,
+          "sender_name": "Diāna",
+          "message": "Un mēs vēl čatā spriedām — 'Tas ir tas pats {userName}, ko Markuss pieminēja?'",
+          "avatar_path": "images/diana.png",
+          "sequence": 38,
+          "answers": []
+        },
+        {
+          "id": 118,
+          "sender_name": "Toms",
+          "message": "Un pēc tam viņš pieklusa. Kā trīs nedēļas.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 38,
+          "answers": []
+        },
+        {
+          "id": 119,
+          "sender_name": "Vika",
+          "message": "Bet tad skatuvē jau bija cita versija.",
+          "avatar_path": "images/vika.svg",
+          "sequence": 38,
+          "answers": [
+            { 
+              "id": 69, 
+              "text": "Tas bija mans veids noskaņoties. Klusi.", 
+              "points": 0
+            },
+            { 
+              "id": 70, 
+              "text": "Man vajadzēja saprast, vai jūs esat tie paši, ar kuriem biju bērns.", 
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "sender_name": "",
+          "message": "Datums: 30. jūnijs, 20:41",
+          "avatar_path": "images/notification.png",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 131,
+          "sender_name": "Kira",
+          "message": "Paldies jums visiem. Par šo gadu. <br> Par to, ka bijāt. Nekas nav ideāls — bet tas bija īsts. <br> Un to nevar izdomāt. Tikai piedzīvot.",
+          "avatar_path": "images/kira.png",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 132,
+          "sender_name": "Diāna",
+          "message": "Man gribas vēl vienu apskāvienu. Visiem. Pat skolotājai. <br> Un jā, arī Tomam",
+          "avatar_path": "images/diana.png",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 133,
+          "sender_name": "Toms",
+          "message": "Oho. Es to pierakstīšu — “Diāna grib apskaut Tomu”. <br> Šito uzlikšu rāmī.",
+          "avatar_path": "images/toms.svg",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 134,
+          "sender_name": "Vika",
+          "message": "Kāds grib izdzēst grupu 1. jūlijā — kā svinīgu noslēgumu? 😄",
+          "avatar_path": "images/vika.svg",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 135,
+          "sender_name": "Lēva",
+          "message": "Nedrīkst. Ja pazudīs čats, pazudīs pierādījumi, ka mēs kādreiz bijām kopā.",
+          "avatar_path": "images/leva.png",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 136,
+          "sender_name": "Dāvis",
+          "message": "Man viss šis vēl joprojām liekas mazliet sapnis. <br> Rīt nav stundu. Nav jāceļas. Nav jāskaidro, kāpēc nokavēji. <br> Tāds tukšums, bet arī kaut kas foršs.",
+          "avatar_path": "images/davis.png",
+          "sequence": 42,
+          "answers": []
+        },
+        {
+          "id": 137,
+          "sender_name": "Markus",
+          "message": "Zini, kur beidzas stāsts? <br> Tur, kur tu saproti — tas bija stāsts. <br> Un mēs to uzrakstījām kopā.",
+          "avatar_path": "images/markus.png",
+          "sequence": 42,
+          "answers": [
+            { 
+              "id": 100, 
+              "text": "Es nevarēju iedomāties, ka tas kļūs tik svarīgi.", 
+              "points": 1
+            },
+            { 
+              "id": 101, 
+              "text": "Jūs bijāt mans labākais pārsteigums šajā gadā.", 
+              "points": 2
+            },
+            { 
+              "id": 102, 
+              "text": "Žēl, ka viss tikai tagad kļuva īsts.", 
+              "points": 0
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "sender_name": "Diāna",
+          "message": "Redz, tā arī ir — mēs nesākām kā draugi. Bet beidzām kā ģimene. <br> Un tas notika pa īstam.",
+          "avatar_path": "images/diana.png",
+          "sequence": 43,
+          "answers": []
+        },
+        {
+          "id": 139,
+          "sender_name": "Kira",
+          "message": "Labi. Šis bija pēdējais čats. Bet ne pēdējā reize. <br> Kad pienāks brīdis - mēs atkal sarakstīsimies. <br> Varbūt klusāk. Bet noteikti — ar smaidu.",
+          "avatar_path": "images/kira.png",
+          "sequence": 43,
+          "answers": [
+            { 
+              "id": 104, 
+              "text": "Tālāk.", 
+              "points": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Skolotāja Līva",
+      "avatar_path": "images/skolotaja.png",
+      "questions": [
+        {
+          "id": 102,
+          "sender_name": "Skolotāja Līva",
+          "message": "Man vienkārši gribējās pateikt — paldies, ka esi kopā ar pārējiem.",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 33,
+          "answers": [
+            { 
+              "id": 65, 
+              "text": "Tālāk", 
+              "points": 1
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "sender_name": "Skolotāja Līva",
+          "message": "Man ir lūgums. <br> Vai Tu varētu nolasīt šīs rindas pasākuma noslēgumā?",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 37,
+          "answers": []
+        },
+        {
+          "id": 113,
+          "sender_name": "Skolotāja Līva",
+          "message": "'Mēs atnācām kā svešinieki, <br> Bet aizejam kā cilvēki, kam bijusi kopīga pasaule.'",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 37,
+          "answers": []
+        },
+        {
+          "id": 114,
+          "sender_name": "Skolotāja Līva",
+          "message": "Es domāju, tas izskanētu no Tevis ļoti īsti. <br>Nevajag teātri. Tikai sirsnību.",
+          "avatar_path": "images/skolotaja.png",
+          "sequence": 37,
+          "answers": [
+            { 
+              "id": 69, 
+              "text": "Godīgi sakot, man bail, bet es to izdarīšu.", 
+              "points": 1
+            },
+            { 
+              "id": 70, 
+              "text": "Ja, protams varēšu", 
+              "points": 2
+            },
+            { 
+              "id": 71, 
+              "text": "Bez solījumiem, bet mēģināšu.", 
+              "points": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "branches": {
+    "branch_1": [
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Haha, nu cerams, ka klasiens arī būs jautrs."
+      },
+      {
+        "sender_name": "Dāvis",
+        "avatar_path": "images/davis.png",
+        "message": "Man jau patīk. Labs sākums."
+      },
+      {
+        "sender_name": "Vika",
+        "avatar_path": "images/vika.svg",
+        "message": "Tad tu vari būt mūsu 'oficiālais komiķis', ok?"
+      }
+    ],
+    "branch_2": [
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Ok, skaidrs. Sveiks čatā."
+      },
+      {
+        "sender_name": "Dāvis",
+        "avatar_path": "images/davis.png",
+        "message": "Nu ko, vēl viens no mums."
+      },
+      {
+        "sender_name": "Vika",
+        "avatar_path": "images/vika.svg",
+        "message": "Cerams, ātri iejutīsies."
+      }
+    ],
+    "branch_3": [
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Ok, labi, sveiks."
+      },
+      {
+        "sender_name": "Dāvis",
+        "avatar_path": "images/davis.png",
+        "message": "Neko, pieradīsi. Pie mums nav traki."
+      },
+      {
+        "sender_name": "Vika",
+        "avatar_path": "images/vika.svg",
+        "message": "Ja kaut ko vajag — prasi."
+      }
+    ],
+    "branch_4": [
+      {
+        "sender_name": "Dāvis",
+        "avatar_path": "images/davis.png",
+        "message": "Haha, jā"
+      },
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Ok, pierakstam. Ir 'anti-oficiālais formāts'. Sapratu."
+      }
+    ],
+    "branch_5": [
+      {
+        "sender_name": "Toms",
+        "avatar_path": "images/toms.svg",
+        "message": "Tā arī jābūt. Bez stresa."
+      },
+      {
+        "sender_name": "Vika",
+        "avatar_path": "images/vika.svg",
+        "message": "Super. Tu jau iemācies mūsu noskaņu."
+      }
+    ],
+    "branch_6": [
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Mhm, tad neklasiskā versija. Sapratu."
+      },
+      {
+        "sender_name": "Markus",
+        "avatar_path": "images/markus.png",
+        "message": "Es tev parādīšu vietas, kur mēs tusējām. Būs labi."
+      }
+    ],
+    "branch_7": [
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Ok. Tad iemetīšu arī atbildes no pagājušā gada uzdevumiem"
+      },
+      {
+        "sender_name": "Toms",
+        "avatar_path": "images/toms.svg",
+        "message": "Respekts. Tā arī vajag runāt."
+      }
+    ],
+    "branch_8": [
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Man vienkārši riebjas tā attieksme. Bet ok. Piedodiet, ja izklausījās asi"
+      }
+    ],
+    "branch_9": [
+      {
+        "sender_name": "Vika",
+        "avatar_path": "images/vika.svg",
+        "message": "Pareizi. Miegs > panika"
+      },
+      {
+        "sender_name": "Markus",
+        "avatar_path": "images/markus.png",
+        "message": "Saprāts runā 😄"
+      }
+    ],
+    "branch_10": [
+      {
+        "sender_name": "Diana",
+        "avatar_path": "images/diana.png",
+        "message": "Tu vienmēr tā mierīgi pasaki... Paldies. <br> Es to laikam aizmirstu — ka nekas nav svarīgāks par to, kā mēs paši jūtamies."
+      }
+    ],
+    "branch_11": [
+      {
+        "sender_name": "Diana",
+        "avatar_path": "images/diana.png",
+        "message": "Tad es neesmu viena ar šo. <br> Skumīgi, bet arī nedaudz mierinoši."
+      }
+    ],
+    "branch_12": [
+      {
+        "sender_name": "Diana",
+        "avatar_path": "images/diana.png",
+        "message": "Tiešām? Tas būtu forši. <br> Vismaz tad tā panika nav tik vientuļa."
+      }
+    ],
+    "branch_13": [
+      {
+        "sender_name": "Diana",
+        "avatar_path": "images/diana.png",
+        "message": "Uh, tas forši. Katram kaut kas savs. <br> Man būs... kafijas krūze 😂"
+      },
+      {
+        "sender_name": "Markus",
+        "avatar_path": "images/markus.png",
+        "message": "Es paņemšu veco piezīmju bloku. Bez tā es nebūtu izvilcis šo gadu."
+      }
+    ],
+    "branch_14": [
+      {
+        "sender_name": "Toms",
+        "avatar_path": "images/toms.svg",
+        "message": "Bilde uz jumta? Reāli forši. Tikai nesakiet direktoram 😁"
+      },
+      {
+        "sender_name": "Leha",
+        "avatar_path": "images/leha.svg",
+        "message": "Ja nokrītam - būs vēl dramatiskāka atmiņa."
+      }
+    ],
+    "branch_15": [
+      {
+        "sender_name": "Vika",
+        "avatar_path": "images/vika.svg",
+        "message": "Haha, es jau zinu, ko uzrakstīt: 'Visu gadu klusēju. Šis ir mans citāts.'"
+      },
+      {
+        "sender_name": "Diana",
+        "avatar_path": "images/diana.png",
+        "message": "Man būs: 'Ceturtdienās man nebija spēka.'"
+      },
+      {
+        "sender_name": "Kira",
+        "avatar_path": "images/kira.png",
+        "message": "Davai, sūtām arī bērnības bildes. No 1. klases. Tā būs pirms / pēc."
+      }
+    ]
+  }
+}

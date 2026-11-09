@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<!-- juicebct / Skolēnu dzīve / https://github.com/juicebct -->
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Unread Lines</title>
+
+    <!-- Styles and icons -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="css/base.css" rel="stylesheet" type="text/css">
+    <link href="css/index.css" rel="stylesheet" type="text/css">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- background -->
+
+    <video autoplay muted loop playsinline class="video-bg" poster="images/site/school.png">
+        <source src="video/school.mp4" type="video/mp4">
+        <img src="images/site/school.png" alt="Background">
+    </video>
+
+    <div class="overlay"></div>
+
+    <!-- menu -->
+
+    <nav>
+        <div class="logo">
+            <img src="images/site/logo-text.png" alt="Unread Lines">
+        </div>
+
+        <div class="links">
+            <a id="home-link" href="#">Sākums</a>
+            <a id="about-link" href="#about">Par spēli</a>
+        </div>
+    </nav>
+
+    <!-- main page -->
+
+    <div class="content">
+        <h1>SPĒLE PAR<br>PUSAUDŽU<br>DZĪVI SKOLĀ</h1>
+        <a class="btn" href="game.html">Sākt spēlēt</a>
+    </div>
+
+    <!-- about section -->
+
+    <section class="about-section" id="about">
+
+        <div class="about-container">
+
+            <!-- intro -->
+
+            <div class="about-header">
+                <span class="section-label">UNREAD LINES</span>
+
+                <h2>PAR SIŽETU</h2>
+
+                <p>
+                    Šī spēle ir interaktīvs stāsts, kurā spēlētājs iejūtas
+                    15–16 gadus veca jaunieša lomā, kurš atgriežas Rēzeknē.
+                    Spēles gaitā viņam ir iespēja sazināties ar dažādiem
+                    personāžiem, izmantojot īpaši izveidotu ziņapmaiņas lietotni.
+                </p>
+
+                <p>
+                    Spēles laikā spēlētājs saņem ziņas, attēlus un video,
+                    piedalās sarunās un pieņem lēmumus, kas ietekmē viņa
+                    reputāciju un attiecības ar citiem personāžiem.
+                    Notikumi, kas risinās ārpus lietotnes, tiek aprakstīti
+                    sarunā “Piezīmes”.
+                </p>
+
+                <p>
+                    Projekts tika izstrādāts kā 12. klases noslēguma darbs
+                    priekšmetā “Projektu darbs”. Tas apvieno programmēšanu
+                    un sociālās zinātnes, pievēršot uzmanību komunikācijai,
+                    pārdomātu lēmumu pieņemšanai, atbildībai, empātijai
+                    un sadarbībai.
+                </p>
+            </div>
+
+            <!-- story -->
+
+            <h2 class="story-heading">SPĒLES STĀSTS</h2>
+
+            <div class="timeline">
+
+                <!-- 2023 -->
+
+                <article class="story-card">
+
+                    <span class="year">2023 · PIRMAIS POSMS</span>
+
+                    <h3>SĀKOTNĒJĀ VERSIJA</h3>
+
+                    <p>
+                        Spēles pirmā versija tika izveidota 2023. gadā kā
+                        12. klases noslēguma projekts. Ierobežotā laika dēļ
+                        neizdevās īstenot visas sākotnēji iecerētās idejas.
+                        Galvenā uzmanība tika pievērsta tehniskajai pusei,
+                        tāpēc spēles sižets palika nepabeigts un nebija
+                        pietiekami attīstīts.
+                    </p>
+
+                    <p>
+                        Pirmā versija tika izstrādāta, izmantojot PHP,
+                        JavaScript un atsevišķu datubāzi. Būtisku palīdzību
+                        tehniskajā izstrādē, īpaši servera puses
+                        programmēšanā, sniedza skolas informātikas skolotājs.
+                    </p>
+
+                    <div class="button-wrapper">
+                        <a href="https://skolenu-dzive.netlify.app/"
+                           target="_blank"
+                           rel="noopener noreferrer"
+                           class="project-button">
+                            Atvērt pirmo spēles versiju
+                        </a>
+                    </div>
+
+                </article>
+
+                <!-- 2025 -->
+
+                <article class="story-card">
+
+                    <span class="year">2025 · JAUNA PIEEJA</span>
+
+                    <h3>PROJEKTA PĀRSTRĀDE</h3>
+
+                    <p>
+                        2025. gadā Ņikita Andrejevs un Iļja Grabovskis
+                        kopīgi nolēma pilnībā pārstrādāt spēli. Šoreiz
+                        galvenā uzmanība tika pievērsta sižetam un spēles
+                        saturam. Stāsts tika izveidots no jauna, pievienoti
+                        jauni notikumi un spēles posmi, kā arī pārveidota
+                        kopējā spēles struktūra.
+                    </p>
+
+                    <p>
+                        Īpaša uzmanība tika pievērsta spēles noslēgumam,
+                        kurā tagad ir skaidrāk parādītas spēlētāja pieņemto
+                        lēmumu sekas, tostarp to ietekme uz reputāciju
+                        un attiecībām ar citiem personāžiem.
+                    </p>
+
+                    <p>
+                        Tehniskajā izstrādē tika atteikts no PHP un
+                        atsevišķas datubāzes. Tā vietā tika izmantots
+                        tīrs JavaScript un JSON faili, kuros tiek glabāti
+                        dialogi, ziņas un cita spēles informācija.
+                    </p>
+
+                    <p>
+                        Ņikita galvenokārt bija atbildīgs par tehnisko
+                        izstrādi, programmēšanu, mājaslapu, dizainu un
+                        funkcionalitāti. Iļja arī piedalījās programmēšanā,
+                        taču galvenokārt rūpējās par sižetu, jaunu notikumu
+                        izveidi un projekta organizēšanu.
+                    </p>
+
+                    <p>
+                        Izstrādes laikā tika izmantoti arī mākslīgā
+                        intelekta rīki, kas palīdzēja programmēšanā,
+                        tekstu veidošanā un atsevišķu tehnisku uzdevumu
+                        risināšanā. Tomēr galvenie lēmumi par spēles
+                        izstrādi, sižetu un saturu tika pieņemti pašiem
+                        projekta autoriem.
+                    </p>
+
+                    <p>
+                        Lai gan tehnisko struktūru būtu bijis iespējams
+                        izveidot vēl labāk, šajā pārstrādes posmā galvenā
+                        prioritāte bija spēles satura uzlabošana.
+                        Nākotnē tehnisko pusi būtu iespējams pilnveidot.
+                    </p>
+
+                </article>
+
+                <!-- 2026 -->
+
+                <article class="story-card">
+
+                    <span class="year">2026 · ATKLĀTAIS KODS</span>
+
+                    <h3>PROJEKTA ATKLĀTĀ KODA VERSIJA</h3>
+
+                    <p>
+                        2026. gadā spēles pirmkods tika publicēts GitHub
+                        platformā, lai ikviens interesents varētu
+                        iepazīties ar projekta izstrādi un, ja vēlas,
+                        piedalīties tā turpmākajā attīstībā.
+                    </p>
+
+                    <p>
+                        Projekta autori paši neplāno turpināt spēles
+                        izstrādi vai regulāri to atjaunināt, taču būtu
+                        priecīgi, ja kāds no interesentiem vēlētos
+                        turpināt darbu pie projekta.
+                    </p>
+
+                    <p>
+                        Jāņem vērā, ka spēles versija kopš 2025. gada
+                        nav tikusi atjaunināta, tāpēc tajā joprojām
+                        var būt kļūdas un nepilnības. Abas spēles
+                        versijas vairs netiek aktīvi uzturētas.
+                    </p>
+
+                    <div class="button-wrapper">
+                        <a href="https://github.com/juicebct/unread-lines"
+                           target="_blank"
+                           rel="noopener noreferrer"
+                           class="project-button">
+                            Apskatīt GitHub repozitoriju
+                        </a>
+                    </div>
+
+                </article>
+
+            </div>
+
+            <!-- participants -->
+
+            <div class="participants">
+
+                <h2>PROJEKTA DALĪBNIEKI</h2>
+
+                <div class="participant-card">
+                    <p>
+                        <strong>Iļja Grabovskis</strong> - sākotnējās
+                        spēles idejas autors. Atbildīgs par spēles
+                        koncepciju, sižetu, notikumiem un projekta
+                        organizēšanu. Piedalījās arī programmēšanā
+                        un tehniskajā izstrādē.
+                    </p>
+                </div>
+
+                <div class="participant-card">
+                    <p>
+                        <strong>Nikita Andreev</strong> - galvenokārt
+                        atbildīgs par tehnisko izstrādi, programmēšanu,
+                        mājaslapu, dizainu un spēles funkcionalitāti.
+                    </p>
+                </div>
+
+                <div class="participant-card">
+                    <p>
+                        <strong>Skolas informātikas skolotājs</strong> -
+                        sniedza nozīmīgu palīdzību pirmās spēles versijas
+                        tehniskajā izstrādē, īpaši backend jeb servera
+                        puses programmēšanā. 2025. gada pārstrādē nepiedalījās.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <script src="js/index.js"></script>
+
+</body>
+</html>

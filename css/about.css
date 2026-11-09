@@ -1,0 +1,211 @@
+/* about.html */
+
+.about-page {
+    height: auto;
+    min-height: 100vh;
+}
+
+.about-page .sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    flex-shrink: 0;
+}
+
+.about-content {
+    flex: 1;
+    min-width: 0;
+    padding: 45px 25px 60px;
+    color: #17191d;
+    background: #f7f8fa;
+}
+
+.about-container {
+    width: 100%;
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+.about-header {
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+.section-label {
+    display: inline-block;
+    margin-bottom: 12px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #178a60;
+    text-transform: uppercase;
+}
+
+.about-header h2 {
+    margin-bottom: 20px;
+    font-size: clamp(28px, 4vw, 38px);
+    font-weight: 800;
+}
+
+.about-header p {
+    max-width: 850px;
+    margin: 0 auto 13px;
+    font-size: 16px;
+    line-height: 1.8;
+    color: #4c515b;
+}
+
+/* headings */
+
+.story-heading {
+    margin: 45px 0 30px;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.participants {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.participants h2 {
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-weight: 800;
+    text-align: center;
+}
+
+/* story cards */
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.story-card {
+    padding: 30px 35px;
+    background: white;
+    border: 1px solid #e5e8ee;
+    border-radius: 14px;
+    box-shadow: 0 4px 16px rgba(20, 30, 50, 0.04);
+}
+
+.story-card h3 {
+    margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: 800;
+    color: #17191d;
+}
+
+.story-card p {
+    margin-bottom: 13px;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #505560;
+}
+
+.story-card p:last-of-type {
+    margin-bottom: 0;
+}
+
+.year {
+    display: inline-block;
+    margin-bottom: 8px;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #178a60;
+}
+
+/* btns */
+
+.button-wrapper {
+    margin-top: 22px;
+}
+
+.project-button {
+    display: inline-block;
+    padding: 12px 23px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #178a60;
+    border-radius: 8px;
+    transition: all 0.25s ease;
+}
+
+.project-button:hover {
+    background: #11704d;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(23, 138, 96, 0.2);
+}
+
+/* participants */
+
+.participant-card {
+    margin-bottom: 12px;
+    padding: 20px 25px;
+    background: white;
+    border: 1px solid #e5e8ee;
+    border-radius: 12px;
+}
+
+.participant-card p {
+    font-size: 15px;
+    line-height: 1.8;
+    color: #505560;
+}
+
+.participant-card strong {
+    color: #17191d;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+    .about-page .sidebar {
+        position: static;
+        height: auto;
+    }
+
+    .about-content {
+        padding: 25px 15px 40px;
+    }
+
+    .about-header {
+        margin-bottom: 25px;
+    }
+
+    .about-header p {
+        font-size: 14px;
+        line-height: 1.7;
+    }
+
+    .story-heading,
+    .participants h2 {
+        font-size: 25px;
+    }
+
+    .story-heading {
+        margin: 35px 0 22px;
+    }
+
+    .story-card {
+        padding: 22px 18px;
+    }
+
+    .story-card h3 {
+        font-size: 19px;
+    }
+
+    .story-card p,
+    .participant-card p {
+        font-size: 14px;
+    }
+
+    .participant-card {
+        padding: 18px;
+    }
+}

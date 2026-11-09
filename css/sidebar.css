@@ -1,0 +1,69 @@
+/* game.html, map.html, about.html */
+
+body {
+    display: flex;
+    height: 100vh;
+    background-color: rgb(235, 235, 235);
+}
+
+.sidebar {
+    width: 160px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px 0;
+    background-color: #fdfbfb;
+}
+
+.sidebar a {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin: 20px 50px;
+    font-size: 10px;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    background-color: #178a60;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #178a60;
+}
+
+.sidebar img {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+
+/* logo */
+
+.sidebar a.logo {
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
+}
+
+.sidebar a.logo img {
+    height: 70px;
+    width: 70px;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 5px;
+    }
+
+    .sidebar a {
+        margin: 25px 0;
+    }
+}
